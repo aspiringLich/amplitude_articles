@@ -1,5 +1,5 @@
 ---
-id = "testing:b"
+id = "testing::b"
 name = "beeee"
 ---
 
