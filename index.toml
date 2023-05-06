@@ -1,6 +1,6 @@
 [testing]
-index = "testing.index"
+index = "testing:index"
 articles = [
-    "testing.a",
-    "testing.b",
+    "testing:a",
+    "testing:b",
 ]
