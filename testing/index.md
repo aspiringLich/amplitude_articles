@@ -1,5 +1,5 @@
 ---
-id = "testing::index"
+id = "testing/index"
 name = "index"
 ---
 
