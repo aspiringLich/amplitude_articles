@@ -1,0 +1,3 @@
+[add]
+inputs = ["int", "int"]
+outputs = ["int"]
