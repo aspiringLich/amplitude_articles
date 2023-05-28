@@ -1,5 +1,5 @@
 ---
-name = "ayy"
+title = "ayy"
 ---
 
 ## Lorem Ipsum

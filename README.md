@@ -19,11 +19,13 @@ amplitude_articles/
 │ ├ 00-my_track1/
 │ │ ├ 00-item1/
 │ │ │ └ article.md
-│ │ └ ...
+│ │ ├ ...
+│ │ └ track.toml
 │ ├ 01-my_track2/
 │ │ ├ 00-item1/
 │ │ │ └ quiz.toml
-│ │ └ ...
+│ │ ├ ...
+│ │ └ track.toml
 │ ...
 │ ├ config.toml
 │ ├ header.md
@@ -36,8 +38,7 @@ amplitude_articles/
 This file contains metadata about the course.
 
 ```toml
-# The name of the course
-name = "Testing Course"
+title = "Testing Course"
 description = "I'm using this to test stuff out"
 ```
 
@@ -48,6 +49,15 @@ This file contains the header for the course. Basically you put markdown links t
 ### `index.md`
 
 This file contains the markup for the course's index page. It does not have a config header.
+
+### `track.toml`
+
+This file contains metadata about the track.
+
+```toml
+title = "Testing Track"
+description = "Epic track moment"
+```
 
 ## Items
 
