@@ -43,7 +43,7 @@ Pharetra et ultrices neque ornare aenean euismod elementum nisi. Mi sit amet mau
 @! success
 > something went right!
 
-@! failiure
+@! failure
 > something went wrong!
 
 sajokjf
