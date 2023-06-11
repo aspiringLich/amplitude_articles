@@ -1,5 +1,8 @@
 title = "Addition"
 
 [add]
-inputs = ["int", "int"]
+inputs = [
+    "int",
+    "{ a: int }"
+]
 output = "int"
