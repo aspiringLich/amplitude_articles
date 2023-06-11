@@ -1,8 +1,8 @@
 title = "Addition"
 
-[add]
+[functions.add]
 inputs = [
     "int",
-    "{ a: int }"
+    "int"
 ]
 output = "int"
