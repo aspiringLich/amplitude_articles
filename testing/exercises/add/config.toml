@@ -1,8 +1,0 @@
-title = "Addition"
-
-[functions.add]
-inputs = [
-    "int",
-    "int"
-]
-output = "int"
